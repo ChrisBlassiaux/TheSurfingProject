@@ -2,6 +2,6 @@
 .jumbotron {
   height: 550px;
   background: 
-    linear-gradient(#000000ab, #00000018),
+    linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .1)),
     fixed top center / cover no-repeat url("img/surf.jpg");
   }
