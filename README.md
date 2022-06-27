@@ -10,7 +10,7 @@
 
 ## :calendar:  Quand ? Où ? Circonstances ?
 
-→ Ce projet a été créé le 02/04/2020 durant ma formation chez The Hacking Project.
+→ Ce projet a été créé le 02/04/2020.
 
 ## :eyes:  Aperçu ?
 https://chrisblassiaux.github.io/TheSurfingProject/ 
